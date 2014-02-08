@@ -1,0 +1,319 @@
+
+.myImg{
+    background-repeat: no-repeat;
+    opacity:0.5;
+    filter:alpha(opacity=40);
+}
+
+.root{
+    margin-top:-5px;
+    margin-left:10px; 
+    width: 1330px;
+    height: 630px;
+    border: 1px dotted brown;
+}
+
+.button{
+
+    background-color:#ACC0DC;
+    Border:1px solid #ccc;
+    font-size:12px;
+    font-weight:bold;
+    color:#2E0854;
+    height:22px;
+}
+
+.formtr{	
+    border-Bottom:1px dotted #ccc;
+}
+
+.regFieldset {    
+    margin-top: 15px;
+    margin-left:340px; 
+    background-color:aliceblue;
+    width:650px; 
+}
+
+.newFieldset {    
+    margin-top: 15px;
+    margin-left:370px; 
+    background-color:aliceblue;
+    width:430px; 
+}
+
+.loginFieldset{
+
+    margin-top: 15px;
+    margin-left:370px; 
+    background-color:aliceblue;
+    width:400px;
+}
+
+.insFieldset {    
+    margin-top: 50px;
+    margin-left:70px; 
+    background-color:aliceblue;
+    width:1200px; 
+}
+
+.imgDisp {
+    margin-top:20px;
+    margin-left:330px;
+    width:650px;
+    height:470px; 
+}
+
+.boardDisp {
+    margin-top:40px;
+    margin-left:310px;
+    width:504px;
+    height:524px; 
+    background-image: url('../images/Board.jpg');
+    background-repeat: no-repeat;
+}
+
+.trr {
+    width: 49px;
+    height: 49px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tdd {
+    width: 48px;
+    height: 49px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.die {    
+    float:left;
+    margin-top:-440px;
+    margin-left:900px;    
+    width:36px;
+    height:36px;
+}
+
+.playerStatus {    
+    float:left;
+    margin-top:-380px;
+    margin-left:850px;
+    background:none;
+    text-decoration:none;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.noOfPlayers{
+    float:left;
+    margin-top:-320px;
+    margin-left:850px;
+    background:none;
+    text-decoration:none;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.scoreBoard{
+    float:left;
+    margin-top:-270px;
+    margin-left:850px;
+    background:none;
+    text-decoration:none;
+    font:22px 'Times New Roman', cursive;
+    color:sienna;
+}
+
+.text {    
+    float:left;
+    margin-top:-500px;
+    margin-left:850px;
+    background:none;
+    text-decoration:none;;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.siteName
+{
+    float:left;
+    margin-left:0px;
+    margin-top:-5px;
+    height:90px;
+    width:1330px;
+    background-color:black;
+}
+
+.websiteName
+{
+    margin-top:0px;
+    text-align:center;
+    font:40px 'Freckle Face', cursive;
+    color:wheat;
+}
+
+.tagLine
+{
+    margin-top:-47px;
+    text-align:center;
+    font:30px 'Bigelow Rules', cursive;
+    color:wheat;
+}
+
+.dice
+{
+    float:left;
+    margin-top:-105px;
+    margin-left:250px;
+
+}
+
+.snakes
+{
+    float:left;
+    margin-top:-105px;
+    margin-left:1050px;
+}
+
+.menu
+{
+    float:left;
+    margin-left:0px;
+    height:45px;
+    width:1330px;
+    background-color:ghostwhite;
+}
+
+.content
+{
+    float:left;
+    margin-left:0px;
+    height:497px;
+    width:1300px;
+    background-color:ghostwhite; 
+}
+
+.home
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:270px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.instructions
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:15px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.registration
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:15px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.createGame
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:15px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.join
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:15px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.contact
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:15px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.login
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:150px;
+    margin-top:10px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.forgotPwd
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:0px;
+    margin-top:0px;
+    cursor:pointer;
+    font:22px 'Keania One', cursive;
+    color:sienna;
+}
+
+.contactContent
+{
+    float:left;
+    background:none;
+    text-decoration:none;
+    margin-left:450px;
+    margin-top:20px;
+    font:18px 'Arial', cursive;
+    color:sienna;
+}
+
+h1
+{
+    margin-left:10px;
+}
+.instContent
+{
+    margin-left:10px;
+    text-align:justify;
+    color:sienna;
+    word-spacing:10px;
+    font:18px 'Freckle Face', cursive;
+}
+
+.legendFont{	
+    font:17px 'Keania One', cursive;
+    color:sienna;
+}
